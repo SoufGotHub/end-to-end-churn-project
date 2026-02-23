@@ -1,6 +1,6 @@
 # Churn Prediction Project
 
-This project aims to predict customer churn using a logistic regression model.
+An end-to-end machine learning project designed to predict telecom customer churn. This repository contains a complete pipeline that generates realistic synthetic data (simulating customer demographics, billing history, support interactions, and usage patterns) and trains a Logistic Regression model to identify customers at risk of leaving.
 
 ## Installation
 
