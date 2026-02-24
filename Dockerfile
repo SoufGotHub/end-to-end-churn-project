@@ -15,8 +15,7 @@ COPY . .
 # Note: No CMD is specified as the default command is unclear.
 # You can build the image and then run a specific script like this:
 #
-# To build the image:
-# docker build -t chuncproject .
+
 #
 # To run a script (e.g., 01_generate_dataset.py):
 # docker run --rm -v ./data:/app/data -v ./models:/app/models chuncproject python scripts/01_generate_dataset.py
